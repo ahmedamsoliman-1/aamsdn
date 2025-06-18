@@ -1,0 +1,18 @@
+.container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 1rem;
+  padding: 1rem 2rem;
+  background-color: #25c2a0;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.buttonSecondary {
+  background-color: #3578e5;
+}
